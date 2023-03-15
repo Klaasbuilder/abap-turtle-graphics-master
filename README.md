@@ -1,8 +1,10 @@
-## Origin
+## Credits
 
 Credits to FreHu on Github 
 
 [FreHu/abap-turtle-graphics](https://github.com/FreHu/abap-turtle-graphics)
+
+[AbapTurtle – make something pretty in abap (and possibly win prizes!)](https://blogs.sap.com/2019/10/12/abapturtle-make-something-pretty-in-abap-and-possibly-win-prizes)
 
 ##
 
