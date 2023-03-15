@@ -6,9 +6,7 @@ Credits to FreHu on Github
 
 [AbapTurtle – make something pretty in abap (and possibly win prizes!)](https://blogs.sap.com/2019/10/12/abapturtle-make-something-pretty-in-abap-and-possibly-win-prizes)
 
-##
-
-![logo](./turtle.png)
+## abapTurtle
 
 ![abap package version](https://img.shields.io/endpoint?url=https://shield.abap.space/version-shield-json/github/FreHu/abap-turtle-graphics/.apack-manifest.xml)
 
